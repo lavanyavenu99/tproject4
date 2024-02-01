@@ -1,0 +1,2 @@
+tg.internal.DefaultHelloWorld
+tg.script.HelloWorldScriptService
